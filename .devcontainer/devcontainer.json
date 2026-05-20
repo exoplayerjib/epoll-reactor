@@ -7,7 +7,7 @@
     },
     "workspaceMount": "source=${localWorkspaceFolder},target=/development,type=bind,consistency=cached",
     "workspaceFolder": "/development",
-    "remoteUser": "exodev",
+    "remoteUser": "devuser",
     "customizations": {
         "vscode": {
             "settings": {

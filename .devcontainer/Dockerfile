@@ -3,7 +3,7 @@ FROM ubuntu:24.04
 
 # Prevent interactive prompts from blocking the build process
 ENV DEBIAN_FRONTEND=noninteractive
-ARG USERNAME=exodev
+ARG USERNAME=devuser
 ARG USER_UID=1000
 ARG USER_GID=1000
 
